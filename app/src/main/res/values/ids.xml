@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_emailid" type="id" />
+    <item name="edt_mobnumb" type="id" />
+    <item name="edt_last_name" type="id" />
+    <item name="edt_first_name" type="id" />
+    <item name="btn_register" type="id" />
+</resources>
