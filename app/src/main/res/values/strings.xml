@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CabRentals</string>
+    <string name="for_renting_cars">For Renting Cars</string>
+    <string name="cabrentals">CabRentals</string>
+    <string name="for_renting_car">for_renting_cars.</string>
+    <string name="sign_in_using_phone_number">Sign In Using Phone Number</string>
+    <string name="sign_in_using_google" />
+    <string name="sign_in_using_google_">Sign In Using Google</string>
+</resources>
