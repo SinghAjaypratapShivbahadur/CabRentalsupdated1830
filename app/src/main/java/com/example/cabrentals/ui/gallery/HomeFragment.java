@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.cabrentals.R;
 
-public class GalleryFragment extends Fragment {
+public class HomeFragment extends Fragment {
 
     private GalleryViewModel galleryViewModel;
 

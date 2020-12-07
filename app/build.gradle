@@ -64,5 +64,13 @@ dependencies {
     //Multidesk
     implementation 'com.android.support:multidex:1.0.3'
 
+    //Dexter
+    implementation 'com.karumi:dexter:6.1.2'
+
+    //Location
+    implementation 'com.google.android.gms:play-services-location:17.1.0'
+
+    //Geofire
+    implementation  'com.firebase:geofire-android:3.0.0'
 
 }
